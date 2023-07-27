@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>mcl_node</name>
+  <version>0.0.0</version>
+  <description>The mcl_node package</description>
+  <maintainer email="tomascanivari@tecnico.ulisboa.pt">tomascanivari</maintainer>
+  <license>MIT</license>
+  
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>rospy</depend>
+  <depend>std_msgs</depend>
+  <depend>nav_msgs</depend>
+  <depend>sensor_msgs</depend>
+  <depend>geometry_msgs</depend>
+_
+  <export>
+  </export>
+  
+</package>
